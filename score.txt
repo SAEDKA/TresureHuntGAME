@@ -1,0 +1,23 @@
+
+rt | Score: 15 | Level Reached: 1
+rt | Score: 40 | Level Reached: 2
+rt | Score: 10 | Level Reached: 3
+jkl | Score: 15 | Level Reached: 1
+jkl | Score: -10 | Level Reached: 2
+jkl | Score: 10 | Level Reached: 3
+saed | Score: 25 | Level Reached: 1
+saed | Score: 0 | Level Reached: 2
+saed | Score: 30 | Level Reached: 3
+hhs | Score: 15 | Level Reached: 1
+hhs | Score: 0 | Level Reached: 2
+hhs | Score: 0 | Level Reached: 3
+sd | Score: 25 | Level Reached: 1
+sd | Score: 0 | Level Reached: 2
+dddf | Score: 10 | Level Reached: 1
+dddf | Score: 0 | Level Reached: 2
+dddf | Score: 10 | Level Reached: 3
+yy | Score: 45 | Level Reached: 1
+yy | Score: 0 | Level Reached: 2
+yy | Score: 0 | Level Reached: 3
+s | Score: 25 | Level Reached: 1
+saed | Score: 5 | Level Reached: 1
